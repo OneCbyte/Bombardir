@@ -1,2 +1,2 @@
 # Bombardir
- This game is written in Python using pygame, your version of python may not work correctly, there may also be errors and crashes in the program, I will try to fix them as soon as possible.
+Hello! This game is written in python using the pygame library. This game is under active development. You can use it for your own purposes, I would be grateful if you indicate the creator when distributing my project :)
