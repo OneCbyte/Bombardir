@@ -9,7 +9,16 @@
  
 
  ## Installation
- Install the correct version of [pygame](https://pypi.org/project/pygame/) & [pygame_gui](https://pypi.org/project/pygame-gui/)
+ Before installing, you must check that Python is installed on your machine. To find out, open a command prompt (if you have Windows) or a terminal (if you have MacOS or Linux) and type this:
+
+```bash
+python --version
+```
+ 
+ 
+If your version is 3.7 and above, then download the following packages from PyPI - [pygame](https://pypi.org/project/pygame/) & [pygame_gui](https://pypi.org/project/pygame-gui/)
+
+Or install them using the commands:
 
  ```bash
 pip install pygame_gui -U
